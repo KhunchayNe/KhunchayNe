@@ -12,7 +12,7 @@ Specialized in backend architecture, RESTful APIs, financial systems (FinTech), 
 I’ve worked on:
 - FinTech systems & API integration
 - Library Automation Systems
-- Smart Kiosk & Procurement Systems
+- Smart Kiosk & Acquisition Module
 - Production deployment (Ubuntu / IIS / Cloudflare)
 
 Currently open to remote contract or project-based opportunities.
@@ -56,15 +56,16 @@ _(Pinned repositories coming soon…)_
 
 - FinTech API System
 - Smart Kiosk Backend
-- Library Automation Platform
-- Procurement System
+- Library Automation Platform 
+- Acquisition Module
+- RD System
 
 ---
 
 ### 📫 Contact Me
-- Email: your-email@example.com
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
+- Email: siwapan6395@gmail.com
+- GitHub: https://github.com/KhunchayNe
+- LinkedIn: https://www.linkedin.com/in/siwapan-boonthong-aa0b1b295
 
 ---
 
