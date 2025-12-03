@@ -31,6 +31,7 @@ Currently open to remote contract or project-based opportunities.
 
 #### DevOps & Infrastructure
 - Docker, Kubernetes
+- RabbitMQ (Message Queue)
 - Ubuntu Server
 - Windows Server (IIS)
 - Cloudflare
@@ -52,13 +53,17 @@ Currently open to remote contract or project-based opportunities.
 ---
 
 ### 📂 Featured Projects
-_(Pinned repositories coming soon…)_
-
 - FinTech API System
-- Smart Kiosk Backend
 - Library Automation Platform 
 - Acquisition Module
 - RD System
+- Tk Book Delivery System (Client and Staff)
+- Smart Kiosk Backend
+- SyncDB System (Sync Oracle <-> Solor)
+- Border Report Backend (Tawai)
+- Privilege System
+- DB Check System (check structure of module before go live project)
+- Optimize Helpdesk System
 
 ---
 
